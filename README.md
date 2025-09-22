@@ -1,2 +1,2 @@
 # Ojo-laser
-Actividad de bootstrap 5.3
+ojo laser center es una aplicacion de una clinica oftamologica.
